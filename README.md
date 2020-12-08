@@ -10,9 +10,9 @@ Automatic Sudoku solver built with Python, NumPy and PyGame<br><br>
 ## Usage Guide
 - Install Python 3.x (Python 3.7 is recommended)
 - Install NumPy
-        ```pip install numpy````
+        ``` pip install numpy ```
 - Install PyGame 
-        ```pip install pygame```
+        ``` pip install pygame ```
 - Run the python file, and enter a valid sudoku puzzle
 - You can use
     - Mouse pointer click to select a cell
