@@ -1,3 +1,3 @@
 # Sudoku-Solver
 Automatic Sudoku solver built with Python, NumPy and PyGame<br>
-<center><img src="https://drive.google.com/uc?export=view&id=1aFC3K1Y2qgd4jdQZ2STPZOayHiUhqsFb"></center>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1aFC3K1Y2qgd4jdQZ2STPZOayHiUhqsFb"></p>
