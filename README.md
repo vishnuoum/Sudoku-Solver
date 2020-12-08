@@ -14,7 +14,7 @@ Automatic Sudoku solver built with Python, NumPy and PyGame<br><br>
 - Install PyGame 
         ``` pip install pygame ```
 - Run the python file, and enter a valid sudoku puzzle
-- You can use
+- You can use :
     - Mouse pointer click to select a cell
     - Number keys 1-9 to enter
     - Arrow keys to navigate through the cells
